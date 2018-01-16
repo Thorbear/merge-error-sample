@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="no.thorbear.librarythree">
+
+  <application>
+    <activity
+      android:label="@string/title_activity_another_sample"
+      android:name=".AnotherSampleActivity"
+      android:screenOrientation="sensor"/>
+  </application>
+
+</manifest>

@@ -1,0 +1,1 @@
+include ':app', ':library-one', ':library-two', ':library-three'
